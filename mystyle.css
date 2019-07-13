@@ -1,0 +1,17 @@
+.maintext {
+  color: blue;
+  font-size: 50pt;
+}
+
+.blue {
+  color: blue;
+}
+
+.red {
+  color: red;
+}
+
+.subtext {
+  background-color: yellow;
+  font-size: 12pt;
+}
